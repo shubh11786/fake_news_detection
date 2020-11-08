@@ -1,5 +1,6 @@
 # fake_news_detection
 To classify if a news article is fake or real using NLP.
+DATA LINK : https://www.kaggle.com/c/fake-news/data
 
 train.csv: A full training dataset with the following attributes:
 
